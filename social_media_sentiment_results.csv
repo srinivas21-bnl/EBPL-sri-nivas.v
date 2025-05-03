@@ -1,0 +1,11 @@
+text,Sentiment
+I love this new feature!,Positive
+This app is so annoying!,Negative
+"Not bad, could be better.",Positive
+Amazing customer service :),Positive
+Terrible experience overall.,Negative
+"Wow, such a fantastic update!",Neutral
+"I hate this bug, fix it now.",Negative
+"Good effort, but needs improvement.",Positive
+Super easy to use and intuitive.,Positive
+"Worst update ever, I’m disappointed.",Negative
